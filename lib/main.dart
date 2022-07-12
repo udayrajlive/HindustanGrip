@@ -15,6 +15,7 @@ class MyApp extends StatelessWidget {
       title: 'HindustanGrip',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
+        fontFamily: 'Raleway',
         primaryColor: Colors.white,
       ),
       home: const home(),
